@@ -1,1 +1,2 @@
-Open-Source Library System
+Open-Source Library System (ILS) for Android and Linux/Windows integration
+======
